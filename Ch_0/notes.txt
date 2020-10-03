@@ -1,0 +1,16 @@
+Like C, but updated
+Interesting concurrency
+Object Oriented
+Has garbage collection
+Jack of all trades, but specializes in systems tools
+Has pointers!
+Compiled
+Package system
+Influenced by Pascal, Modula-2, C
+
+Missing: Implicit conversions, constructors/destructors, overloading, default parameter values, inheritance, generics
+
+Simple type system
+
+No classes, but OOP
+No inheritance, all composition
