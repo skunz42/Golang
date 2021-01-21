@@ -1,0 +1,32 @@
+Ch. 0 Notes
+
+Like C, but updated
+Focus on simplicity
+Interesting concurrency
+Object Oriented
+Has garbage collection
+Jack of all trades, but specializes in systems tools
+Has pointers!
+Compiled
+Package system
+Influenced by Pascal, Modula-2, C
+
+Missing: Implicit conversions, constructors/destructors, overloading, default parameter values, inheritance, generics
+
+Simple type system
+
+No classes, but OOP
+No inheritance, all composition
+
+Ch. 2 Notes
+
+Standard variable naming conventions
+Scope same as C
+Variable declaration: var name type = expression
+Type is optional - inferred
+Expression is optional - set to '0' of respective type
+Short variable declaration: name := expression, not to be confused with =
+Pointers - like they are in C
+new keyword - heap
+Lifetime - same as Java
+userdefined types - type name underlying-type
